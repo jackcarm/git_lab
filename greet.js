@@ -1,1 +1,2 @@
-const helloWorld = (name = "World") => `Hello ${name}!`; efsgs
+const helloWorld = (name = "World") => `Hello ${name}!`;
+
